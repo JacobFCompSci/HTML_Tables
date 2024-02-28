@@ -1,0 +1,124 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 700px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#table1 {
+  border: 1px solid red;
+  margin: 30px auto;
+}
+
+#table1 td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+
+.block {
+  background: black;
+  color: white;
+}
+
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+
+  transition: font-size 0.5s, background 0.5s, color 0.5s;
+}
+
+#table2 {
+  background-color: #0c6c9d;
+  border-radius: 40px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+#text_socials {
+  padding: 15px;
+  font-weight: bold;
+}
+
+img {
+  padding: 0px 40px;
+}
+
+#table3 {
+  border: 1px solid gray;
+  background: lightskyblue;
+}
+
+div {
+  background: lightskyblue;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#table3 td {
+  border: 1px solid gray;
+  text-align: center;
+}
+
+h2 {
+  color: darkcyan;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.blue {
+  color: blue;
+}
+
+.pink {
+  color: pink;
+}
+
+.red {
+  color: red;
+}
+
+.maroon {
+  color: maroon;
+}
+
+.brown {
+  color: brown;
+}
+
+.yellow {
+  color: gold;
+}
+
+#green {
+  color: forestgreen;
+}
+
+#lunch_time {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+}
+
+#title {
+  background: lightskyblue;
+}
